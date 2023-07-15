@@ -36,6 +36,7 @@
     .main{
     flex-direction: column;
     /* background-color: brown; */
+    margin: 24px;
     }
     
 }
